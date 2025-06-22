@@ -19,7 +19,7 @@ pip install playwright
 playwright install
 ```
 ### Save the Script
-[twitch_stream_auto_switcher.py](auto-switcher/twitch_stream_auto_switcher.py)
+[twitch_stream_auto_switcher.py](twitch_stream_auto_switcher.py)
 
 Save the Python code as `twitch_stream_auto_switcher.py` in your desired directory.
 ## Run
