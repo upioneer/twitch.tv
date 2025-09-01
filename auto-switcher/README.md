@@ -9,6 +9,15 @@ Install Playwright
 ```bash
 pip install playwright
 ```
+or on Debian, install npm and Playwright
+```bash
+sudo apt-get install npm
+npm init playwright@latest
+```
+Install python3-venv package
+```baseh
+sudo apt install python3.11-venv
+```
 ## Setup
 ### Install Playwright and Browser Binaries
 It's recommended to use a virtual environment
